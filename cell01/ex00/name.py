@@ -1,4 +1,3 @@
-first_name = "Wil"
-last_name = "42"
-
-print(first_name + " " + last_name)
+first_name = "yanika"
+last_name = "samransin"
+print(first_name,last_name)
