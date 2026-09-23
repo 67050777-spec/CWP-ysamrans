@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 try:
     num1 = float(input("Enter the first number:\n"))
     num2 = float(input("Enter the second number:\n"))
